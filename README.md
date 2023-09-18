@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis E C Anaya</h1>
+<h1 align="center">Hi 👋>
 <h3 align="center">Chemical engineer with a passion for the prediction of physicochemical properties through molecular simulations, cheminformatics and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-chemeng&label=Profile%20views&color=0e75b6&style=flat" alt="luis-chemeng" /> </p>
